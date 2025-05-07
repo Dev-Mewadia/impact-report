@@ -14,7 +14,7 @@ System.out.println("even");
 
 }
 if(num>6&&num<20&&((num&1)==0)){
-System.out.println("Not even")
+System.out.println("Not even");
 }
 
 }
