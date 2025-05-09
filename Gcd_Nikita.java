@@ -22,4 +22,4 @@ public class Gcd_Nikita {
 
         }
     }
-}
+
